@@ -1,6 +1,6 @@
 # Work Day Scheduler
 
-Create a simple calendar application that allows a user to save events for each hour of the day.
+calendar application that allows a user to save events for each hour of the day.
 
 ## User Story
 AS AN employee with a busy schedule
